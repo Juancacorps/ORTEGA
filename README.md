@@ -1,7 +1,7 @@
 # Scrapers 💻
 > El arte de controlar de manera automatizada sitios web con el propósito de extraer datos publicados que son de nuestro interés. 
 
-Este repositorio contendra Scrapers para obtener informacion para nuestro Data Warehouse.
+Este repositorio contendra Scrapers para obtener informacion de paginas web.
 
 **Documentacion de Librerias:**
 ###### Pandas:[ https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/ " https://pandas.pydata.org/docs/")
